@@ -39,7 +39,7 @@ export default function ProductSlider() {
 
   return (
     <div>
-      <div className=" absolute flex items-center w-fit h-fit">
+      <div className="absolute flex items-center w-fit h-fit">
       <MdChevronLeft
           onClick={slideLeft}
           className="hidden lg:block relative font-thin border"
