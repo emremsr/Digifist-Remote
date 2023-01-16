@@ -7,7 +7,7 @@ export default function Home() {
       <div>
         <Image
           className="absolute object-cover w-fit h-fit md:w-full md:h-full md:relative lg:w-fit lg:h-full lg:relative"
-          src="/../public/hero.png"
+          src="/../public/images/hero.png"
           width={720}
           height={864}
           alt="digifist"
