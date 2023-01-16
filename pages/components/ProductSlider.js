@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { data } from "../data/data";
+import { data } from "../../data/data";
 import { MdChevronLeft, MdChevronRight } from "react-icons/md";
 
 export default function ProductSlider() {
