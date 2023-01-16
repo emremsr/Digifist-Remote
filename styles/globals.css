@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Avant";
+  src: url("/public/fonts/ITCAvantGardePro-Bk.otf");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "AvantBold";
+  src: url("/public/fonts/ITCAvantGardePro-Bold.otf");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("/public/fonts/Avenir.ttc");
+}
