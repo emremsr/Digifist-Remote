@@ -1,6 +1,5 @@
 import Image from "next/image";
 import ProductSlider from "./components/ProductSlider";
-import Product from "./components/Product";
 
 export default function Home() {
   return (
