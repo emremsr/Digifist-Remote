@@ -63,7 +63,7 @@ export default function ProductSlider() {
                       id="color1"
                     />
                     <label
-                      for="color1"
+                      htmlFor="color1"
                       className="border border-gray-200 rounded-sm w-4 h-4 cursor-pointer shadow-sm block"
                     ></label>
                   </div>
@@ -75,7 +75,7 @@ export default function ProductSlider() {
                       id="color1"
                     />
                     <label
-                      for="color1"
+                      htmlFor="color1"
                       className="border border-gray-200 rounded-sm w-4 h-4 cursor-pointer shadow-sm block"
                     ></label>
                   </div>
@@ -87,7 +87,7 @@ export default function ProductSlider() {
                       id="color1"
                     />
                     <label
-                      for="color1"
+                      htmlFor="color1"
                       className="border border-gray-200 rounded-sm w-4 h-4 cursor-pointer shadow-sm block"
                     ></label>
                   </div>
